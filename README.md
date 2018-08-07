@@ -8,10 +8,11 @@ Final data set created summarizes for each subject and activity pair, the mean a
 Descriptive headers is included in the final data set to make it easier for further analysis.
 
 The code is divided into a few parts:-
-a) Downloading and reading the contents of the Data set
-b) Merging the data sets
-c) Selecting only the measurements required for the final data set
-d) Creating headers for the sets
-e) Ordering the tidy data set
-f) Writing the contents of the data set to a file
+
+Downloading and reading the contents of the Data set
+Merging the data sets
+Selecting only the measurements required for the final data set
+Creating headers for the sets
+Ordering the tidy data set
+Writing the contents of the data set to a file
 
